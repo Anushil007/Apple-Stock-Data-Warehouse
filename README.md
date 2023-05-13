@@ -13,6 +13,7 @@ date,open,high,low,close,volume
 3) Combine the transformed data into a single csv file named merged.csv.
 4) A new csv file named latest.csv is produced every month which contains the data of the latest month. Combine it by transforming the columns to the required          format. The whole data is again added to the merged.csv file.
 5) The part of running the code generating latest.csv(latest.ipynb) is scheduled using Task Shecduler.
-6) 
+6) Export the data to SSMS to create a Data Warehouse.
+7) 
 
   
