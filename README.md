@@ -26,6 +26,6 @@ date,open,high,low,close,volume
   5) Use Lambda function and Cloudwatch for automation. 
   
 
-####The detailed documentation is present in Documentation.pdf.
+#### The detailed documentation is present in Documentation.pdf.
 
-####-By: Anushil Timsina
+#### -By: Anushil Timsina
