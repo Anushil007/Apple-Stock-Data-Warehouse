@@ -14,6 +14,9 @@ date,open,high,low,close,volume
 4) A new csv file named latest.csv is produced every month which contains the data of the latest month. Combine it by transforming the columns to the required          format. The whole data is again added to the merged.csv file.
 5) The part of running the code generating latest.csv(latest.ipynb) is scheduled using Task Shecduler.
 6) Export the data to SSMS to create a Data Warehouse.
-7) 
+7) Automation using SSMS was not feasible so use Telend for automation.
 
+
+
+  #### Using AWS
   
