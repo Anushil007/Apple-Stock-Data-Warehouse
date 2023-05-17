@@ -19,4 +19,13 @@ date,open,high,low,close,volume
 
 
   #### Using AWS
+  1) Load the Data Into S3 buckets.
+  2) Use AWS Glue's Crawler and Glue Job for Transformation of Data.
+  3) Use Athena for quering the transformed data in the form of warehouse using SQL.
+  4) Use Quicksight to visualize the data stored in Data Warehouse.
+  5) Use Lambda function and Cloudwatch for automation. 
   
+
+####The detailed documentation is present in Documentation.pdf.
+
+####-By: Anushil Timsina
